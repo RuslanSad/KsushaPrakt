@@ -230,5 +230,4 @@ def handle_message(message):
         )
 
 
-# Прослушивание сообщений
 bot.polling()
